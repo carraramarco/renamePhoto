@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carraramarco/renamePhoto/issues"
   },
-  "homepage": "https://github.com/carraramarco/renamePhoto#readme"
+  "homepage": "https://github.com/carraramarco/renamePhoto#readme",
+  "dependencies": {
+    "async": "^1.4.2"
+  }
 }
