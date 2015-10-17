@@ -1,0 +1,19 @@
+{
+  "name": "rename-photo",
+  "version": "0.0.1",
+  "description": "rename file in folder with IMG_Ymd_hms, date and time taken from date creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carraramarco/renamePhoto.git"
+  },
+  "author": "Marco Carrara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carraramarco/renamePhoto/issues"
+  },
+  "homepage": "https://github.com/carraramarco/renamePhoto#readme"
+}
